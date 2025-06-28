@@ -20,7 +20,7 @@ A Google Colab project to create a Retrieval-Augmented Generation (RAG) chatbot 
 - Google Generative AI (`google-generativeai`)
 - Pinecone (Vector DB)
 - LangChain
-- OpenAI-style Embedding API (`text-embedding-004`)
+- Google Gemini Embedding API (`text-embedding-004`)
 
 ## 🚀 Run It Yourself
 
